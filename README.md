@@ -1,1 +1,17 @@
-# railway
+RAILWAY INFRASTRUCTURE AND TRAVELLER USAGE PREDICTION AND RENDERING SOLUTIONS
+
+ABSTRACT:
+This project presents the main foundations of Big Data applied to Smart Cities. A general Internet of Things based architecture is proposed to be applied to different smart cities applications.  In this project we are trying to predict and provide solution to improvise the railway infrastructure and train services. Indian Railways (both local & state) are a mode of transport service where thousands of transit-card transactions should be processed every minute. Thus our proposed system involves smart transit cards which can monitor the user behavior. Thus these transmit cards would produce great amount of data which can be used for analytics and prediction. Predicting the consumers count and behavior who uses the railway services are solved through the application of big data technique (R Programming). From the transit card, passenger age, source and destination are been analyzed for providing solution for improvisation. Also to make the collected data are stored using public cloud storage. Also for data analytics, we use clustering and classification. For clustering we use Kmeans algorithm and for classification we use naive bayes algorithm. Finally the predictive output we use. shinyapps.io
+
+PROPOSED SYSTEM:
+Our proposed system is a 1st initiative to provide improvisation solution for our railway system using real time data. The real time data are collected using transit cards. In this project we are trying to predict and provide solution to improvise the railway infrastructure and train services. Predicting the consumers count and behavior who uses the railway services are solved through the application of big data technique (R Programming). From the transit card, passenger age, source and destination are been analyzed for providing solution for improvisation. The information relevant to trip proﬁling must include data about: time (in terms of day of the week and time of the day), origin and destination stations and approximate age of the traveller. This information is being continuously recorded in different databases of the train service. In order to deal with this incompleteness, a well known solution is the trip-chaining method which focus on recovering the origin and destination of the trips. Also to make the collected data available to the railway department using public cloud storage.  
+In this project, we proposed transit cards to detect the consumer behavior and count. The real sensor data are transmitted into systems using COM port and these real time data are obtained using Net beans and saved in SQL database. The real time data can be monitored by the railway department. The real time data are processed from Net beans and imported as an excel file and transmitted to R programming studio for analytics. In R programming clustering and classification are processed and solution is provided. For clustering we use k-means algorithm and classification we use naive bayes algorithm.
+
+ADVANTAGE: 
+Lot of improvisation to the existing structure is possible analyzing the data.
+This project focus on real data collection, data sharing and data analytics. 
+In this project smart card is used, which reduces user congestion for taking tickets.
+Reduce user time and provides peaceful travel.
+
+CONCLUSION:
+This paper displays the beneﬁts of applying big data techniques over data originated by IoT-based devices deployed in smart cities. Especially for the public transport service of a city. Thus this project collects the real time data and process using big data analytics tool. The predicted result would provide an efficient solution for railway department to improvise the service and infrastructure.
